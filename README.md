@@ -42,7 +42,7 @@ curl --location --request GET '{{VOU_DE_ESTRELA_URL}}/check-promo-allowed?userna
 
 Response looks like this
 
-````
+```
 {
     "data": {
         "isValid": true
